@@ -1,0 +1,2 @@
+# Stop-and-Frisk-Incident-Prediction
+Built Predictive models with Logistic Regression and Decision Trees using python to identify likelihoods of stop-and-frisk incidents in New York City. Used EDA to aggregate stop and frisk incidents based on categorical variables including race and gender, as well as 28 numerical variables such as attire, weapons yield, contraband yield, stopped, frisked, handcuffed, weapons pointed, and more.
